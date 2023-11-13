@@ -3,7 +3,7 @@
 Firmware version: V2.0.0-B20190902.1958
 
 ### description
-TOTOLINK-A3002RU has a post-auth insecure permission vulnerability that can lead to the execution of any cmd
+TOTOLINK-A3002RU has a post-auth rce due to the incorrect access control vulnerability, attackers can bypass front-end security restrictions by using burpsuite or smth like that
 
 
 POC:
