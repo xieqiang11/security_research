@@ -3,7 +3,7 @@
 ## Web
 Totolink router:<br>
 1. https://github.com/xieqiang11/security_research/blob/main/TOTOLINK-A3002RU-RCE.md  <br>
-2. <br>
+2. https://github.com/xieqiang11/security_research/blob/main/TOTOLINK-N300RT-RCE.md <br>
 
 ## msic OR bin
 Dll Hijacking:<br>
