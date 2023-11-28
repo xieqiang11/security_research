@@ -1,6 +1,9 @@
 ## TOTOLINK-A3002RU-RCE
 
-Firmware version: V2.0.0-B20190902.1958
+Vendor:TOTOLINK
+Product:TOTOLINK-A3002RU
+Version: TOTOLINK-A3002RU V2.0.0-B20190902.1958
+Link:http://www.totolink.cn/
 
 ### description
 TOTOLINK-A3002RU has a post-auth rce due to the incorrect access control vulnerability, attackers can bypass front-end security restrictions by using burpsuite or smth like that
