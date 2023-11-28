@@ -1,5 +1,4 @@
-## TOTOLINK-N300RT-RCE
-Vendor:TOTOLINK
+## TOTOLINK-N300RT
 Product:TOTOLINK-N300RT
 Firmware Version: TOTOLINK-N300RT  V3.2.4-B20180730.0906
 Link:http://www.totolink.cn/
