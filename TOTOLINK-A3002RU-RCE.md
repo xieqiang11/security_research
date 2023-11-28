@@ -2,7 +2,7 @@
 
 Vendor:TOTOLINK
 Product:TOTOLINK-A3002RU
-Version: TOTOLINK-A3002RU V2.0.0-B20190902.1958
+Firmware Version: TOTOLINK-A3002RU V2.0.0-B20190902.1958
 Link:http://www.totolink.cn/
 
 ### description
