@@ -1,5 +1,8 @@
 ## TOTOLINK-N300RT-RCE
-Firmware version: V3.2.4-B20180730.0906
+Vendor:TOTOLINK
+Product:TOTOLINK-N300RT
+Version: TOTOLINK-N300RT  V3.2.4-B20180730.0906
+Link:http://www.totolink.cn/
 
 ### description
 TOTOLINK-N300RT has a post-auth rce due to the incorrect access control vulnerability, attackers can bypass front-end security restrictions by using burpsuite or smth like that
